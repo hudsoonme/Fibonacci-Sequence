@@ -1,1 +1,1 @@
-# Fibonacci-Sequence
+Description: This code defines a function fibonacci() that generates a Fibonacci sequence of length n. The function uses a while loop to iteratively calculate and append the next number in the sequence. Finally, it returns the sequence.
